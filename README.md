@@ -1,4 +1,4 @@
-:boom:            :boom:
+:boom::boom::boom::boom::boom::boom::boom::boom::boom:
 # Pr-cakru-11-uro
 
 
