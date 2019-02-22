@@ -1,7 +1,12 @@
 # Pr-cakru-11-uro
 
-:next_track_button: **Anggota : 
-> Jack Dhamma Wijaya 16918166 , Alya Mizani 16518181 , Vincent Fernaldy 16918230 , Winnie Zhuang 16518020**
+:next_track_button: 
+Anggota | NIM
+------------ | ------------- 
+> Jack Dhamma Wijaya | 16918166  
+Alya Mizani | 16518181 
+Vincent Fernaldy | 16918230
+Winnie Zhuang | 16518020
 
 # Deskripsi Game :
 ```
