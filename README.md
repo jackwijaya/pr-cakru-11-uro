@@ -24,14 +24,14 @@
 
 
 
-# Strategi :
+:next_track_button: # Strategi :
 
 - POD akan bergerak dengan memprioritaskan zona yang dapat memberikan platinum terbesar
 
 `-Opening :`
   
  :one: Apabila POD tidak melihat musuh , maka strategi yang diterapkan adalah menyebar. Strateginya adalah 8 POD masing-masing      menguasai zona berbeda secara menyebar , selainkan 2 pod lain akan bergerak mengikuti satu sama lain untuk menguasai daerah yang berada dekat dengan musuh sambil menyerang musuh secara bersama-sama apabila POD mendeteksi musuh yang datang .
-   2. Apabila POD melihat musuh , maka strategi berubah menjadi menyerang . 6 pod menyerang musuh dan disaat bersamaan 4 pod lain tetap berfokus untuk menguasai zona yang jauh dari musuh . 6 POD yang menyerang musuh akan mengincar POD lawan yang posisinya paling dekat dengan zona 
+ :two: Apabila POD melihat musuh , maka strategi berubah menjadi menyerang . 6 pod menyerang musuh dan disaat bersamaan 4 pod lain tetap berfokus untuk menguasai zona yang jauh dari musuh . 6 POD yang menyerang musuh akan mengincar POD lawan yang posisinya paling dekat dengan zona 
 
 
 `-Middle game :`
