@@ -49,6 +49,7 @@ Winnie Zhuang      | 16518020
  
  
 `- MIDDLE GAME :`
+
   :one: Apabila zona sendiri sudah banyak yang dikuasai lawan maka semua POD akan berfokus untuk terlebih dahulu menyerang musuh secara bersama -sama agar daerah yang telah dikuasai tidak jatuh ke tangan musuh 
   
   :two: Apabila musuh telah terdesak maka POD yang sedang bertahan difokuskan secara menyeluruh untuk menyerang musuh agar musuh lebih cepat kehilangan zona mereka 
