@@ -50,7 +50,7 @@ Winnie Zhuang      | 16518020
    1. Apabila zona sendiri sudah banyak yang dikuasai lawan maka semua POD akan berfokus untuk terlebih dahulu menyerang musuh secara bersama -sama agar daerah yang telah dikuasai tidak jatuh ke tangan musuh 
    2. Apabila musuh telah terdesak maka POD yang sedang bertahan difokuskan secara menyeluruh untuk menyerang musuh agar musuh lebih cepat kehilangan zona mereka 
    3. Apabila terdapat musuh yang mengikuti arah gerak POD kepunyaan sendiri yang sedang menguasai zona lain maka POD kita akan fokus untuk menyerang POD tersebut terlebih dahulu agar gerakan POD tidak terasa sia-sia
-   4. Apabila zona milik sendiri diserang oleh musuh secara bersamaan dan kemungkinan menguasai kembali zona tersebut adalah kecil, maka POD akan fokus untuk menguasai area lain serta area lawan agar tidak menyia-nyiakan POD yang ada 
+   4. Apabila zona milik sendiri diserang oleh musuh secara bersamaan dan kemungkinan menguasai kembali zona tersebut adalah kecil, maka 8 POD akan fokus untuk menguasai area lain serta area lawan agar tidak menyia-nyiakan POD yang ada dan 2 lainnya akan menjaga base 
 
 
 
