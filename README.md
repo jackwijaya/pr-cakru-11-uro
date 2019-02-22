@@ -26,10 +26,10 @@
 - POD akan bergerak dengan memprioritaskan zona yang dapat memberikan platinum terbesar
 
 `-Opening :`
-1. Apabila POD tidak melihat musuh , maka strategi yang diterapkan adalah menyebar. Strateginya adalah 8 POD masing-masing      menguasai zona berbeda secara menyebar , selainkan 2 pod lain akan bergerak mengikuti satu sama lain untuk menguasai daerah yang berada dekat dengan musuh sambil menyerang musuh secara bersama-sama apabila POD mendeteksi musuh yang datang .
-2. Apabila POD melihat musuh , maka strategi berubah menjadi menyerang . 6 pod menyerang musuh dan disaat bersamaan 4 pod lain tetap berfokus untuk menguasai zona yang jauh dari musuh . 6 POD yang menyerang musuh akan mengincar POD lawan yang posisinya paling dekat dengan zona 
+   - 1. Apabila POD tidak melihat musuh , maka strategi yang diterapkan adalah menyebar. Strateginya adalah 8 POD masing-masing      menguasai zona berbeda secara menyebar , selainkan 2 pod lain akan bergerak mengikuti satu sama lain untuk menguasai daerah yang berada dekat dengan musuh sambil menyerang musuh secara bersama-sama apabila POD mendeteksi musuh yang datang .
+   - 2. Apabila POD melihat musuh , maka strategi berubah menjadi menyerang . 6 pod menyerang musuh dan disaat bersamaan 4 pod lain tetap berfokus untuk menguasai zona yang jauh dari musuh . 6 POD yang menyerang musuh akan mengincar POD lawan yang posisinya paling dekat dengan zona 
 
-``-Middle game :`
+`-Middle game :`
 1. Apabila zona sendiri sudah banyak yang dikuasai lawan maka semua POD akan berfokus untuk terlebih dahulu menyerang musuh secara bersama -sama agar daerah yang telah dikuasai tidak jatuh ke tangan musuh 
 2. Apabila musuh telah terdesak maka POD yang sedang bertahan difokuskan secara menyeluruh untuk menyerang musuh agar musuh lebih cepat kehilangan zona mereka 
 3. Apabila terdapat musuh yang mengikuti arah gerak POD kepunyaan sendiri yang sedang menguasai zona lain maka POD kita akan fokus untuk menyerang POD tersebut terlebih dahulu agar gerakan POD tidak terasa sia-sia
