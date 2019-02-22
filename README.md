@@ -1,6 +1,7 @@
 :boom::boom::boom::boom::boom::boom::boom::boom::boom:
 # Pr-cakru-11-uro
 
+/play trombone
 
 :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: 
 
