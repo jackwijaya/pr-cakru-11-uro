@@ -9,6 +9,8 @@ Alya Mizani        | 16518181
 Vincent Fernaldy   | 16918230
 Winnie Zhuang      | 16518020
 
+
+
 # Deskripsi Game :
 ```
 1. Game terdiri atas 2 orang pemain
@@ -47,6 +49,8 @@ Winnie Zhuang      | 16518020
    2. Apabila musuh telah terdesak maka POD yang sedang bertahan difokuskan secara menyeluruh untuk menyerang musuh agar musuh lebih cepat kehilangan zona mereka 
    3. Apabila terdapat musuh yang mengikuti arah gerak POD kepunyaan sendiri yang sedang menguasai zona lain maka POD kita akan fokus untuk menyerang POD tersebut terlebih dahulu agar gerakan POD tidak terasa sia-sia
    4. Apabila zona milik sendiri diserang oleh musuh secara bersamaan dan kemungkinan menguasai kembali zona tersebut adalah kecil, maka POD akan fokus untuk menguasai area lain serta area lawan agar tidak menyia-nyiakan POD yang ada 
+
+
 
 # Objektif : 
  
