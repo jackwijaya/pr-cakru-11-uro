@@ -4,7 +4,7 @@
 > Jack Dhamma Wijaya 16918166 , Alya Mizani 16518181 , Vincent Fernaldy 16918230 , Winnie Zhuang 16518020**
 
 # Deskripsi Game :
-```ruby
+```green
 1. Game terdiri atas 2 orang pemain
 2. Waktu untuk 1 round game adalah 100 ms
 3. Setiap pemain saling mengakuisisi zona yang ada dengan menggunakan POD
