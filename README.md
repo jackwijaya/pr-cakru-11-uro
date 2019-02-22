@@ -1,7 +1,8 @@
 :boom::boom::boom::boom::boom::boom::boom::boom::boom:
 # *Pr-cakru-11-uro*
+:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
 # *Platinum rift 2*
-:fire::fire::fire::fire::fire::fire::fire::fire::fire:
+
 
 :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: 
 
