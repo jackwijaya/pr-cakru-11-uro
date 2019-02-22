@@ -1,4 +1,6 @@
+:boom:
 # Pr-cakru-11-uro
+:boom:
 
 :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: :next_track_button: 
 
@@ -56,9 +58,9 @@ Winnie Zhuang      | 16518020
 
 # Objektif : 
  
- - Syarat Menang :
+ - *Syarat Menang :
     - Menguasai zone terbanyak setelah 250 turns
- - Syarat Kalah :
+ - *Syarat Kalah :
     - Gagal menguasai zone terbanyak setelah 250 turns
 
 
