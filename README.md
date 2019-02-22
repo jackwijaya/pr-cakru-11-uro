@@ -9,7 +9,7 @@
 2. Waktu untuk 1 round game adalah 100 ms
 3. Setiap pemain saling mengakuisisi zona yang ada dengan menggunakan POD
 4. Setiap pemain akan mendapatkan platinum dalam waktu tertentu dan sesuai dengan zona yang ditempati oleh POD masing" pemain
-5. POD dapat dapat ditukarkan secara otomatis apabila platinum sudah mencukupi 20 yang merupakan syarat untuk mendapatkan POD baru
+5. POD dapat dapat ditukarkan secara otomatis apabila platinum sudah mencukupi 20 yang merupakan syarat untuk mendapatkan POD baru```
 
 
 
@@ -17,7 +17,6 @@
 
 1. Menggunakan array of array untuk menyimpan data posisi zone yang saling berhubungan agar POD dapat berpindah . 
    Apabila zone 1 berhubungan dengan zone 2 dan zone 5 maka pada array indeks 1 terdapat array dengan isi 2 dan 5
-2. 
 
 
 
