@@ -59,9 +59,11 @@ Winnie Zhuang      | 16518020
 # Objektif : 
  
  - *Syarat Menang :
-    - Menguasai zone terbanyak setelah 250 turns
+    - Menguasai zone terbanyak setelah 250 turns 
+    - Menguasai base musuh terlebih dahulu
  - *Syarat Kalah :
     - Gagal menguasai zone terbanyak setelah 250 turns
+    - Base dikuasai oleh musuh
 
 
 
